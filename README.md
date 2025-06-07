@@ -50,6 +50,18 @@ The dataset was originally published on Kaggle and includes responses from parti
   - Poorer mental health outcomes
 - Evidence supports rejecting the null hypothesis of independence between usage and mental health
 
+## Key Visualizations
+
+1. Violin plot showing the distribution of social media dependence scores across different usage time groups.
+![Violin Plot - Dependence vs. Usage](violin_dependence_vs_usage.png)
+
+2. Trend line displaying how average mental health scores vary with social media usage.
+![Trendline - Mental Health vs. Usage](trendline_mentalhealth_vs_usage.png)
+
+3. Linear regression results comparing actual vs. predicted mental health scores.
+![Regression - Actual vs. Predicted](regression_actual_vs_predicted.png)
+
+
 ## Tools Used
 - Language: R
 - Packages: `dplyr`, `ggplot2`, `rstatix`, `modelr`
