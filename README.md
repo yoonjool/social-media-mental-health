@@ -2,6 +2,11 @@
 
 This project investigates the relationship between time spent on social media and mental health outcomes using survey data from 481 individuals. As social media becomes increasingly integrated into daily life, concerns are growing regarding its effects on emotional well-being, attention, and self-perception. This analysis provides a data-driven perspective on these issues.
 
+## My Contributions
+
+- Responsible for data preprocessing and visual analysis of relationships between social media usage and mental health indicators  
+- Contributed to regression modeling and interpreting results to draw insights
+
 ## Dataset
 The dataset was originally published on Kaggle and includes responses from participants across various age groups and gender identities. It contains 21 variables, including:
 - Demographic information (age, gender)
